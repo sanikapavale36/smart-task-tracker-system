@@ -26,3 +26,24 @@ Smart Task Tracker System is a Java-based project developed to help users manage
 
 ## Future Scope
 This project can be enhanced by adding notifications, cloud storage, team collaboration, and mobile support in future versions.
+
+## Project Structure
+smart-task-tracker-system/
+│── src/
+│   ├── model/
+│   ├── dao/
+│   ├── service/
+│   ├── ui/
+│── database/
+│── README.md
+
+## How to Run
+1. Clone the repository
+2. Open in any Java IDE (Eclipse/IntelliJ)
+3. Configure MySQL database
+4. Run the main class
+   
+## Future Enhancements
+- Web-based interface
+- Mobile app integration
+- Email notifications
